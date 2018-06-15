@@ -30,9 +30,9 @@ $ ./build.sh
 ```console
 $ ./run.sh
 ```
-Verranno aperti 3 terminali contenenti rispettivamente:
-_ Roscore
-_ ORB_SLAM2
-_ la bag: inizialmente in pausa, premere <i>spazio</i> per avviarla
+Verranno aperti 3 terminali contenenti rispettivamente:<br>
+_ Roscore<br>
+_ ORB_SLAM2<br>
+_ la bag: inizialmente in pausa, premere <i>spazio</i> per avviarla<br>
 
 Una volta terminata l'acquisizione dei punti premere <i>CTRL-C</i> sul terminale dell'ORB_SLAM2 per poter salvare i dati appena acquisiti nel file <b>pointcloud.pcl</b>.
